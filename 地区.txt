@@ -1,0 +1,255 @@
+name,title,country,region
+Afghanistan,阿富汗,AF,ASI 
+Albania,阿尔巴尼亚,AL,EUR 
+Algeria,阿尔及利亚,DZ,AFR 
+American Samoa,美属萨摩亚,AS,OCN 
+Andorra,安道尔,AD,EUR 
+Angola,安哥拉,AO,AFR 
+Anguilla,安圭拉,AI,CAC 
+Antarctica,南极,AQ,ANT 
+Antigua and Barbuda,安提瓜和巴布达,AG,CAC 
+Argentina,阿根廷,AR,SAM 
+Armenia,亚美尼亚,AM,ASI 
+Aruba,阿鲁巴,AW,CAC 
+Australia,澳大利亚,AU,OCN 
+Austria,奥地利,AT,EUR 
+Azerbaijan,阿塞拜疆,AZ,ASI 
+Bahamas The,巴哈马群岛,BS,CAC 
+Bahrain,巴林岛,BH,MEA 
+Bangladesh,孟加拉,BD,ASI 
+Barbados,巴巴多斯,BB,CAC 
+Belarus,白俄罗斯,BY,EUR 
+Belgium,比利时,BE,EUR 
+Belize,伯利兹,BZ,CAC 
+Benin,贝宁,BJ,AFR 
+Bermuda,百慕大,BM,NAM 
+Bhutan,不丹,BT,ASI 
+Bolivia,玻利维亚,BO,SAM 
+Bonaire,波内尔,BQ,CAC 
+Bosnia and Herzegovina,波黑,BA,EUR 
+Botswana,博茨瓦纳,BW,AFR 
+Bouvet Island,布韦岛,BV,ANT 
+Brazil,巴西,BR,SAM 
+British Indian Ocean Territory,英属印度洋领地,IO,ASI 
+British Virgin Islands,英属维尔京岛,VG,CAC 
+Brunei,文莱,BN,ASI 
+Bulgaria,保加利亚,BG,EUR 
+Burkina Faso,布基纳法索,BF,AFR 
+Burundi,布隆迪,BI,AFR 
+Cambodia,柬埔寨,KH,ASI 
+Cameroon,喀麦隆,CM,AFR 
+Canada,加拿大,CA,NAM 
+Cape Verde,佛得角,CV,AFR 
+Cayman Islands,开曼群岛,KY,CAC 
+Central African Republic,中非共和国,CF,AFR 
+Chad,查德,TD,AFR 
+Chile,智利,CL,SAM 
+China,中国,CN,ASI 
+Christmas Island,圣诞岛,CX,ASI 
+Cocos (Keeling) Islands, 科科斯(基林)群岛,CC,ASI 
+Colombia,哥伦比亚,CO,SAM 
+Comoros,科摩罗,KM,AFR 
+Cook Islands,库克群岛,CK,OCN 
+Costa Rica,哥斯达黎加,CR,CAC 
+Cote D'Ivoire, 科特迪瓦,CI,AFR 
+Croatia,克罗地亚,HR,EUR 
+Cuba,古巴,CU,CAC 
+Curacao,库拉索岛,CW,CAC 
+Cyprus,塞浦路斯,CY,EUR 
+Czech Republic,捷克,CZ,EUR 
+Democratic Republic of the Congo,刚果,CD,AFR 
+Denmark,丹麦,DK,EUR 
+Djibouti,吉布提,DJ,AFR 
+Dominica,多米尼克,DM,CAC 
+Dominican Republic,多米尼加共和国,DO,CAC 
+Ecuador,厄瓜多尔,EC,SAM 
+Egypt,埃及,EG,AFR 
+El Salvador,萨尔瓦多,SV,CAC 
+Equatorial Guinea,赤道几内亚,GQ,AFR 
+Eritrea,厄立特里亚国,ER,AFR 
+Estonia,爱沙尼亚,EE,EUR 
+Ethiopia,埃塞俄比亚,ET,AFR 
+Falkland Islands,福克兰群岛,FK,SAM 
+Faroe Islands,法罗群岛,FO,EUR 
+Federated States of Micronesia,密克罗尼西亚联邦,FM,OCN 
+Fiji,斐济,FJ,OCN 
+Finland,芬兰,FI,EUR 
+France,法国,FR,EUR 
+French Guiana,法属圭亚那,GF,SAM 
+French Polynesia,法属波利尼西亚,PF,OCN 
+French Southern Territories,法属南半球领地,TF,OCN 
+Gabon,加蓬,GA,AFR 
+Gambia The,冈比亚,GM,AFR 
+Georgia,格鲁吉亚,GE,ASI 
+Germany,德国,DE,EUR 
+Ghana,加纳,GH,AFR 
+Gibraltar,直布罗陀,GI,EUR 
+Greece,希腊,GR,EUR 
+Greenland,格陵兰,GL,ARC 
+Grenada,格林纳达,GD,CAC 
+Guadeloupe,瓜德罗普岛,GP,CAC 
+Guam,关岛,GU,OCN 
+Guatemala,危地马拉,GT,CAC 
+Guernsey,根西岛,GG,EUR 
+Guinea,几内亚,GN,AFR 
+Guinea-Bissau,几内亚比绍,GW,AFR 
+Guyana,圭亚那,GY,SAM 
+Haiti,海地,HT,CAC 
+Heard Island and McDonald Islands,赫德岛和麦克唐纳群岛,HM,ANT 
+Honduras,洪都拉斯,HN,CAC 
+Hong Kong,香港,HK,ASI 
+Hungary,匈牙利,HU,EUR 
+Iceland,冰岛,IS,ARC 
+India,印度,IN,ASI 
+Indonesia,印尼,ID,ASI 
+Iran,伊朗,IR,MEA 
+Iraq,伊拉克,IQ,MEA 
+Ireland,爱尔兰,IE,EUR 
+Isle of Man,马恩岛,IM,EUR 
+Israel,以色列,IL,MEA 
+Italy,意大利,IT,EUR 
+Jamaica,牙买加,JM,CAC 
+Japan,日本,JP,ASI 
+Jersey,泽西,JE,EUR 
+Jordan,约旦,JO,MEA 
+Kazakhstan,哈萨克斯坦,KZ,ASI 
+Kenya,肯尼亚,KE,AFR 
+Kiribati,基里巴斯,KI,OCN 
+Kosovo,科索沃,XK,EUR 
+Kuwait,科威特,KW,MEA 
+Kyrgyzstan,吉尔吉斯斯坦,KG,ASI 
+Laos,老挝,LA,ASI 
+Latvia,拉脱维亚,LV,EUR 
+Lebanon,黎巴嫩,LB,MEA 
+Lesotho,莱索托,LS,AFR 
+Liberia,利比里亚,LR,AFR 
+Libya,利比亚,LY,AFR 
+Liechtenstein,列支敦士登,LI,EUR 
+Lithuania,立陶宛,LT,EUR 
+Luxembourg,卢森堡,LU,EUR 
+Macau,澳门,MO,ASI 
+Macedonia,马其顿,MK,EUR 
+Madagascar,马达加斯加,MG,AFR 
+Malawi,马拉维,MW,AFR 
+Malaysia,马来西亚,MY,ASI 
+Maldives,马尔代夫,MV,ASI 
+Mali,马里,ML,AFR 
+Malta,马尔他,MT,EUR 
+Marshall Islands,马绍尔群岛,MH,OCN 
+Martinique,马提尼克,MQ,CAC 
+Mauritania,毛里塔尼亚,MR,AFR 
+Mauritius,毛里求斯,MU,AFR 
+Mayotte,马约特岛,YT,AFR 
+Mexico,墨西哥,MX,NAM 
+Moldova,摩尔多瓦,MD,EUR 
+Monaco,摩纳哥,MC,EUR 
+Mongolia,蒙古国,MN,ASI 
+Montenegro,黑山,ME,EUR 
+Montserrat,蒙特塞拉特岛,MS,CAC 
+Morocco,摩洛哥,MA,AFR 
+Mozambique,莫桑比克,MZ,AFR 
+Myanmar,缅甸,MM,ASI 
+Namibia,纳米比亚,NA,AFR 
+Nauru,瑙鲁,NR,OCN 
+Nepal,尼泊尔,NP,ASI 
+Netherlands,荷兰,NL,EUR 
+New Caledonia, 新喀里多尼亚,NC,OCN 
+New Zealand,新西兰,NZ,OCN 
+Nicaragua,尼加拉瓜,NI,CAC 
+Niger,尼日尔,NE,AFR 
+Nigeria,尼日利亚,NG,AFR 
+Niue,纽埃,NU,OCN 
+Norfolk Island,诺福克岛,NF,OCN 
+North Korea,北朝鲜,KP,ASI 
+Northern Mariana Islands,北马里亚纳群岛,MP,OCN 
+Norway,挪威,NO,EUR 
+Oman,阿曼,OM,MEA 
+Pakistan,巴基斯坦,PK,ASI 
+Palau,帕劳群岛,PW,OCN 
+Palestine,巴勒斯坦,PS,MEA 
+Panama,巴拿马,PA,CAC 
+Papua New Guinea,巴布亚新几内亚, PG,OCN 
+Paraguay,巴拉圭,PY,SAM 
+Peru,秘鲁,PE,SAM 
+Philippines,菲律宾,PH,ASI 
+Pitcairn Islands,皮特凯恩群岛,PN,OCN 
+Poland,波兰,PL,EUR 
+Portugal,葡萄牙,PT,EUR 
+Puerto Rico,波多黎各,PR,CAC 
+Qatar,卡塔尔,QA,MEA 
+Republic of the Congo,刚果共和国,CG,AFR 
+Reunion,留尼汪岛,RE,AFR 
+Romania,罗马尼亚,RO,EUR 
+Russia,俄罗斯,RU,ASI 
+Rwanda,卢旺达,RW,AFR 
+Saint Barthelemy,圣巴特岛,BL,CAC 
+Saint Helena,圣赫勒拿岛,SH,AFR 
+Saint Kitts and Nevis,圣基茨与尼维斯,KN,CAC 
+Saint Lucia,圣卢西亚岛,LC,CAC 
+Saint Martin,圣马丁岛,MF,CAC 
+Saint Pierre and Miquelon,圣皮埃尔和密克隆群岛,PM,NAM 
+Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,VC,CAC 
+Samoa,萨摩亚,WS,OCN 
+San Marino,圣马力诺,SM,EUR 
+Sao Tome and Principe,圣多美与普林西比共和国,ST,AFR 
+Saudi Arabia,沙特阿拉伯,SA,MEA 
+Senegal,塞内加尔,SN,AFR 
+Serbia,塞尔维亚,RS,EUR 
+Seychelles,塞舌尔,SC,AFR 
+Sierra Leone,塞拉利昂,SL,AFR 
+Singapore,新加坡,SG,ASI 
+Sint Maarten,荷属圣马丁岛,SX,CAC 
+Slovakia,斯洛伐克,SK,EUR 
+Slovenia,斯洛文尼亚,SI,EUR 
+Solomon Islands,所罗门群岛,SB,OCN 
+Somalia,索马里,SO,AFR 
+South Africa,南非,ZA,AFR 
+South Georgia and South Sandwich Islands,南乔治亚和南桑德韦奇群岛,GS,SAM 
+South Korea,韩国,KR,ASI 
+South Sudan,南苏丹,SS,AFR 
+Spain,西班牙,ES,EUR 
+Spratly Islands,南沙群岛,SP,ASI 
+Sri Lanka,斯里兰卡,LK,ASI 
+Sudan,苏丹,SD,AFR 
+Suriname,苏里南,SR,SAM 
+Svalbard And Jan Mayen,斯瓦尔巴特群岛,SJ,EUR 
+Swaziland,斯威士兰,SZ,AFR 
+Sweden,瑞典,SE,EUR 
+Switzerland,瑞士,CH,EUR 
+Syria,叙利亚,SY,MEA 
+Taiwan,台湾,TW,ASI 
+Tajikistan,塔吉克斯坦,TJ,ASI 
+Tanzania,坦桑尼亚,TZ,AFR 
+Thailand,泰国,TH,ASI 
+Timor-Leste,东帝汶,TL,ASI 
+Togo,多哥,TG,AFR 
+Tokelau,托克劳群岛,TK,OCN 
+Tonga,汤加,TO,OCN 
+Trinidad and Tobago,特立尼达和多巴哥,TT,CAC 
+Tunisia,突尼斯,TN,AFR 
+Turkey,土耳其,TR,MEA 
+Turkmenistan,土库曼斯坦,TM,ASI 
+Turks and Caicos Islands,特克斯和凯科斯群岛,TC,CAC 
+Tuvalu,图瓦卢,TV,OCN 
+Uganda,乌干达,UG,AFR 
+Ukraine,乌克兰,UA,EUR 
+United Arab Emirates,阿联酉,AE,MEA 
+United Kingdom,英国,GB,EUR 
+United States,美国,US,NAM 
+United States Minor Outlying Islands,美国边疆小岛,UM,OCN 
+Uruguay,乌拉圭,UY,SAM 
+US Virgin Islands,美属维尔京岛,VI,CAC 
+Uzbekistan,乌兹别克斯坦,UZ,ASI 
+Vanuatu,瓦努阿图,VU,OCN 
+Vatican City,梵蒂冈,VA,EUR 
+Venezuela,委内瑞拉,VE,SAM 
+Vietnam,越南,VN,ASI 
+Wallis and Futuna,瓦利斯群岛和福图纳群岛,WF,OCN 
+Western Sahara,撒哈拉,EH,AFR 
+Yemen,也门,YE,MEA 
+Zambia,赞比亚,ZM,AFR 
+Zimbabwe,津巴布韦,ZW,AFR 
+
+
+
+
